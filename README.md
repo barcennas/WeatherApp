@@ -15,3 +15,5 @@ This project uses:
 * Core Location
 * AlamoFire
 * Escaping Closures
+
+![GitHub Logo](ScreenShot.png)
